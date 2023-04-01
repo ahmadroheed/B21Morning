@@ -1,0 +1,11 @@
+C:\Users\arkha\source\repos\FirstB21Project\FirstB21Project\bin\Debug\FirstB21Project.exe.config
+C:\Users\arkha\source\repos\FirstB21Project\FirstB21Project\bin\Debug\FirstB21Project.exe
+C:\Users\arkha\source\repos\FirstB21Project\FirstB21Project\bin\Debug\FirstB21Project.pdb
+C:\Users\arkha\source\repos\FirstB21Project\FirstB21Project\obj\Debug\FirstB21Project.csproj.AssemblyReference.cache
+C:\Users\arkha\source\repos\FirstB21Project\FirstB21Project\obj\Debug\FirstB21Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\arkha\source\repos\FirstB21Project\FirstB21Project\obj\Debug\FirstB21Project.Form1.resources
+C:\Users\arkha\source\repos\FirstB21Project\FirstB21Project\obj\Debug\FirstB21Project.Properties.Resources.resources
+C:\Users\arkha\source\repos\FirstB21Project\FirstB21Project\obj\Debug\FirstB21Project.csproj.GenerateResource.cache
+C:\Users\arkha\source\repos\FirstB21Project\FirstB21Project\obj\Debug\FirstB21Project.csproj.CoreCompileInputs.cache
+C:\Users\arkha\source\repos\FirstB21Project\FirstB21Project\obj\Debug\FirstB21Project.exe
+C:\Users\arkha\source\repos\FirstB21Project\FirstB21Project\obj\Debug\FirstB21Project.pdb
